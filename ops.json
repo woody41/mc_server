@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "69977c38-783c-3720-85a6-98d5210fd880",
+    "name": "Nexisi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e4ec4ada-ed82-4f96-ac92-151822ff82e9",
+    "name": "DelphyM",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1f6b9514-dd97-482c-8592-e463e4a6bb7b",
+    "name": "Nexisi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f1631dfd-c2cf-4418-bf4f-3bf74ac7cf1b",
+    "name": "StolenByMicrsoft",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

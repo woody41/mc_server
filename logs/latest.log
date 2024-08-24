@@ -1,0 +1,33 @@
+[15:48:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:48:37] [ServerMain/INFO]: Loaded 1290 recipes
+[15:48:37] [ServerMain/INFO]: Loaded 1399 advancements
+[15:48:37] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[15:48:37] [Server thread/INFO]: Loading properties
+[15:48:37] [Server thread/INFO]: Default game type: SURVIVAL
+[15:48:37] [Server thread/INFO]: Generating keypair
+[15:48:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:48:38] [Server thread/INFO]: Using epoll channel type
+[15:48:38] [Server thread/INFO]: Preparing level "world"
+[15:48:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:48:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:48:39] [Server thread/INFO]: Time elapsed: 354 ms
+[15:48:39] [Server thread/INFO]: Done (0.912s)! For help, type "help"
+[15:51:43] [User Authenticator #1/INFO]: UUID of player Nexisi is 1f6b9514-dd97-482c-8592-e463e4a6bb7b
+[15:51:44] [Server thread/INFO]: Nexisi[/127.0.0.1:57928] logged in with entity id 102 at (52.36661609461337, 73.0, 211.36533191143684)
+[15:51:44] [Server thread/INFO]: Nexisi joined the game
+[15:52:33] [Server thread/INFO]: [Nexisi: Set own game mode to Survival Mode]
+[15:56:13] [Server thread/INFO]: [Nexisi: Set own game mode to Creative Mode]
+[16:01:47] [Server thread/INFO]: [Nexisi: Set own game mode to Survival Mode]
+[16:02:42] [Server thread/INFO]: [Nexisi: Set own game mode to Creative Mode]
+[16:03:49] [User Authenticator #2/INFO]: UUID of player DelphyM is e4ec4ada-ed82-4f96-ac92-151822ff82e9
+[16:03:49] [Server thread/INFO]: DelphyM[/127.0.0.1:38453] logged in with entity id 3369 at (38.331505, 70.0, 220.00536)
+[16:03:49] [Server thread/INFO]: DelphyM joined the game
+[16:04:12] [Server thread/WARN]: DelphyM moved wrongly!
+[16:05:35] [Server thread/INFO]: [Nexisi: Set own game mode to Survival Mode]
+[16:07:07] [Server thread/INFO]: [Nexisi: Set own game mode to Creative Mode]
+[16:07:40] [Server thread/INFO]: [Nexisi: Set own game mode to Survival Mode]
+[16:09:02] [Server thread/INFO]: [Nexisi: Set own game mode to Creative Mode]
+[16:09:03] [Server thread/WARN]: DelphyM moved wrongly!
+[16:09:24] [Server thread/INFO]: [Nexisi: Set own game mode to Survival Mode]
+[16:09:40] [Server thread/INFO]: Nexisi has made the advancement [Stone Age]
+[16:11:34] [Server thread/INFO]: [Nexisi: Set own game mode to Creative Mode]
